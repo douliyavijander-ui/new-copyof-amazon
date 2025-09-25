@@ -1,0 +1,59 @@
+#SELF{
+    background-image: url(pexels-pixabay-355328.jpg);
+    background-size: auto;
+    height: 90px;
+    
+}
+#hh3{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+background-color: #f5f5dc
+}
+#bha{
+    text-align: center;
+}
+ul{
+list-style: square;
+}
+#div4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.my{
+    width: 100px;
+}
+#you3{
+    color: rgb(245, 13, 140);
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#hh1{
+    position: relative;
+    top: -100px;
+    text-decoration: underline;
+}
+
+pre{ 
+    font-size: x-large;
+}
+
+#image1{
+ border-radius: 50%;
+    height: 80px;
+    width: 80PX;
+    position: relative;
+    left: 570px;
+    top: -84px;
+
+    BORDER:2px,rgb(23, 112, 163),solid,
+    
+}
+#image2{ border-style: outset;
+    width: 40px;
+}
+
